@@ -1,1 +1,1 @@
-# product-price-tracker---chrome-extension
+A product price tracker from sites like amazon and flipkart
